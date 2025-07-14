@@ -20,3 +20,5 @@ README.md
 ../foundryup-zksync
 lib/
 
+# Test files
+.gas-snapshot
